@@ -1,0 +1,1 @@
+vless://0f5cc347-470b-4046-c4bd-b4d84f1a29a1@www.speedtest.net:2096?encryption=none&security=tls&sni=s4.mahxray.ml&type=ws&host=s4.mahxray.ml&path=%2F#1-m.h.dehghan
