@@ -7,7 +7,7 @@ vless://1c0c99f9-999f-4af8-c5e5-b1aea2cd661c@blog.freeyoutubeservice.ga:80?path=
 vless://a29e3747-1cd9-408b-f5a2-39fcecd43266@blog.freeyoutubeservice.ga:80?path=%2F&security=none&encryption=none&type=ws#VIP+Hamrah+Aval+2
 vmess://eyJhZGQiOiJibG9nLmZyZWV5b3V0dWJlc2hvcnRzLmNmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY5NWE4YWRjLWQ5NzctNDA1OC05MmJkLTJlYzM0OTIzOGZlMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MCIsInBzIjoiVklQIEhhbXJhaCBBdmFsIDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 
-vless://65ce0468-29ce-40d0-d672-2edbc34fafbb@abcd.openconnectir.tk:35679?security=tls&encryption=none&headerType=none&type=tcp&sni=abcd.openconnectir.tk#VIP+IRANCELL+1
-vless://30d2d106-7177-401a-f25f-44e422e1e435@abcd.openconnectir.tk:37747?security=tls&encryption=none&headerType=none&type=tcp&sni=abcd.openconnectir.tk#VIP+IRANCELL+2
+vless://977a8c0a-c7df-4f3c-9663-00f2041f075b@lou.openconnectir.tk:56359?security=tls&encryption=none&headerType=none&type=tcp&sni=lou.openconnectir.tk#VIP+IRANCELL+1
+vless://22bb4ee8-8fca-43e7-f9b6-3f8b6c97596a@lou.openconnectir.tk:45348?security=tls&encryption=none&headerType=none&type=tcp&sni=lou.openconnectir.tk#VIP+IRANCELL+2
 vless://9fb84a91-ebb5-4e8b-9abc-b1f6529e6623@45.85.118.88:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=gr.mrclothshop.fun#VIP+IRANCELL++3
 vmess://eyJhZGQiOiJjZi5zYW5zb3JjaGkubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI3aTdkYTkzMXNhOS5naGV5Y2hpLmJ1enoiLCJpZCI6IjlkN2Q3NTVkLTgwYTAtNGJiOS04MzZiLTlkMWMzZTNiMjU5ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWwvc2Fuc29yY2hpX2JlemFuX2doZXljaGlfYm90IiwicG9ydCI6IjIwOTUiLCJwcyI6IlZJUCBJUkFOQ0VMTCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 
