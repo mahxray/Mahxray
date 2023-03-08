@@ -1,8 +1,7 @@
 vless://de5bf281-3a34-42b7-856f-df3d5a39d291@www.speedtest.net:2096?type=ws&security=tls&path=%2F&host=ss4.mahxray.ml&sni=s4.mahxray.ml&flow=xtls-rprx-direct#1-Germany%201
 vless://e8e34df3-b3b1-4af4-841a-a87ca582610f@www.speedtest.net:2096?type=ws&security=tls&path=%2F&host=ss4.mahxray.ml&sni=s4.mahxray.ml&flow=xtls-rprx-direct#1-Germany%202
 vless://c3669cd4-b958-4179-83af-52e45ea8e17c@45.85.118.88:443?type=grpc&security=tls&serviceName=&sni=ss4.mahxray.ml&flow=#vless-grpc-tls-ir-Germany%203
-vless://1d676185-29c9-4325-e1e8-d3849f07463a@45.85.118.88:443?type=grpc&security=tls&serviceName=&sni=ss4.mahxray.ml&flow=xtls-rprx-direct#vless-grpc-tls-ir-Germany%204
-s
+vless://615f5b22-f540-4b50-ef47-d348331d3f81@45.85.118.88:443?type=grpc&security=tls&serviceName=&sni=ss4.mahxray.ml&flow=#vless-grpc-tls-ir-Germany%204
  
 vless://d0cb739f-6afa-4aa0-c8a6-97cc834f4f41@tr.bestnet.ml:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.mahxray.ml#Hamrah-Irancell
 
