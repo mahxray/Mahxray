@@ -1,5 +1,5 @@
-vless://de5bf281-3a34-42b7-856f-df3d5a39d291@www.speedtest.net:2096?type=ws&security=tls&path=%2F&host=ss4.mahxray.ml&sni=s4.mahxray.ml&flow=xtls-rprx-direct#Germany%20hamrah%201
-vless://e8e34df3-b3b1-4af4-841a-a87ca582610f@www.speedtest.net:2096?type=ws&security=tls&path=%2F&host=ss4.mahxray.ml&sni=s4.mahxray.ml&flow=xtls-rprx-direct#Germany%20hamrah%202
+vless://7b607e65-b15d-4d6f-c60b-390123b87b9b@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=ss4.mahxray.ml&type=ws&sni=ss4.mahxray.ml#Germany_Hamrah_1
+vless://88e9b8ee-3157-4f9b-c7a1-f99746eafe0d@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=ss4.mahxray.ml&type=ws&sni=ss4.mahxray.ml#Germany_Hamrah_2
 vless://c3669cd4-b958-4179-83af-52e45ea8e17c@45.85.118.88:443?type=grpc&security=tls&serviceName=&sni=ss4.mahxray.ml&flow=#Germany%20irancell%201
 vless://7971961c-420f-46fc-b20b-b555ca0f2bed@ss4.mahxray.ml:443?type=grpc&security=tls&serviceName=&sni=ss4.mahxray.ml&flow=#Germany%20irancell%202
 
