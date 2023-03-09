@@ -10,5 +10,5 @@ vless://81f37a77-50ed-4907-a5d3-a8f969a302cc@blog.freeyoutubeshorts.cf:8080?path
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlZJUF9IYW1yYWhfQXZhbF8yIiwNCiAgImFkZCI6ICJibG9nLmZyZWV5b3V0dWJlc2hvcnRzLmNmIiwNCiAgInBvcnQiOiAiODg4MCIsDQogICJpZCI6ICIwNWJiY2IyYy1lNDYyLTRhMTgtZTVkZC04YTkzMTRhN2JhNDQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
 
 
-vless://65ce0468-29ce-40d0-d672-2edbc34fafbb@abcd.openconnectir.tk:35679?security=tls&encryption=none&headerType=none&type=tcp&sni=abcd.openconnectir.tk#VIP+IRANCELL+1
-vless://30d2d106-7177-401a-f25f-44e422e1e435@abcd.openconnectir.tk:37747?security=tls&encryption=none&headerType=none&type=tcp&sni=abcd.openconnectir.tk#VIP+IRANCELL+2
+vless://977a8c0a-c7df-4f3c-9663-00f2041f075b@lou.openconnectir.tk:56359?security=tls&encryption=none&headerType=none&type=tcp&sni=lou.openconnectir.tk#VIP+IRANCELL+1
+vless://22bb4ee8-8fca-43e7-f9b6-3f8b6c97596a@lou.openconnectir.tk:45348?security=tls&encryption=none&headerType=none&type=tcp&sni=lou.openconnectir.tk#VIP+IRANCELL+2
