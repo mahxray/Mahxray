@@ -1,11 +1,11 @@
-vless://d0cb739f-6afa-4aa0-c8a6-97cc834f4f41@23.227.38.1:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_Hamrah_1
+vless://d0cb739f-6afa-4aa0-c8a6-97cc834f4f41@ha.maxnob.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_Hamrah_1
 
-vless://fec409b0-2117-44a6-9f7a-3a334ca587da@23.227.38.1:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_Hamrah_2
+vless://fec409b0-2117-44a6-9f7a-3a334ca587da@ha.maxnob.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_Hamrah_2
 
-vless://09959768-90f4-4bd5-9c73-e28587c95ba9@23.227.38.1:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_Hamrah_3
+vless://09959768-90f4-4bd5-9c73-e28587c95ba9@ha.maxnob.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_Hamrah_3
 
-vless://d0cb739f-6afa-4aa0-c8a6-97cc834f4f41@45.85.118.21:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_irancell_1
+vless://d0cb739f-6afa-4aa0-c8a6-97cc834f4f41@ir.maxnob.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_irancell_1
 
-vless://fec409b0-2117-44a6-9f7a-3a334ca587da@45.85.118.21:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_irancell_2
+vless://fec409b0-2117-44a6-9f7a-3a334ca587da@ir.maxnob.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_irancell_2
 
-vless://09959768-90f4-4bd5-9c73-e28587c95ba9@45.85.118.21:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_irancell_3
+vless://09959768-90f4-4bd5-9c73-e28587c95ba9@ir.maxnob.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=tr.ehsanserver2.top#Mahxray_irancell_3
