@@ -1,6 +1,6 @@
 vless://fb2020ef-9e40-42e4-d6af-2868ecd8ad1f@www.speedtest.net:2087?path=%2F&security=tls&encryption=none&host=fi.s56123.cf&type=ws&sni=fi.s56123.cf#Finland+1
 
-vless://3f06d3ae-b19e-430f-ec2e-b78131192b65@www.speedtest.net:2087?path=%2F&security=tls&encryption=none&host=fi.s56123.cf&type=ws&sni=fi.s56123.cf#Finland+2
+vless://3f06d3ae-b19e-430f-ec2e-b78131192b65@ha.maxnob.top:2087?path=%2F&security=tls&encryption=none&host=fi.s56123.cf&type=ws&sni=fi.s56123.cf#Finland+2
 
 vless://22d757ce-25a3-4f03-d6b3-a9282da2c3c8@www.speedtest.net:2087?path=%2F&security=tls&encryption=none&host=fi.s56123.cf&type=ws&sni=fi.s56123.cf#Finland+3
 
